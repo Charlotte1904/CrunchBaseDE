@@ -9,7 +9,7 @@ https://rosettacode.org/wiki/Using_the_Meetup.com_API
 
 
 # MeetupAPI key 
-cv
+2874d38771329205940487d21283d3e
 
 # To get different groups 
 https://secure.meetup.com/meetup_api/console/?path=/2/groups
@@ -34,21 +34,10 @@ sig_id=222315094&sig=484eeb121035bea874bd33a0aac292d1070e3e00
 
 
 
+#Generic “reduceBy” or “groupBy + aggregate” functionality with Spark DataFrame
+http://codereview.stackexchange.com/questions/115082/generic-reduceby-or-groupby-aggregate-functionality-with-spark-dataframe
+https://lab.getbase.com/pandarize-spark-dataframes/
 
-
-are you almost done ???
-
-
-
-
-
-
-
-
-
-
-
-what are you going to do next ??
-
-
-
+#pandas
+data.groupby('workclass').agg({'final_weight': 'sum', 'age': 'mean'})
+dataSpark.groupBy('workclass').agg({'capital_gain': 'sum', 'education_num': 'mean'}).collect()
