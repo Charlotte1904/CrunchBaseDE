@@ -1,4 +1,4 @@
-  # <center> MEETUP PLATFORM <center>
+# <center> MEETUP PLATFORM <center>
 ![logo](./Images/Diagram.png)
 
 <hr>
@@ -8,5 +8,5 @@
 <br>
 -**Implementing Time Series to see the rise of a topic and how different topics evolve over time**
 
-
+#Example of raw rsvp streaming file
 ![logo](./Images/jsonfile.png)
