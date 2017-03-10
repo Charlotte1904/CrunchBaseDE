@@ -12,3 +12,19 @@
 ![logo](./Images/jsonfile.png)
 
 #Please view [[ipython](https://github.com/Charlotte1904/MeetupAPI/blob/master/README.ipynb)] for more information.
+
+#<center> Category Distribution - San Francisco <center>
+---
+<center><img src="./Images/categorydist.png" height="200"/></center>
+
+#  <center> TIME SERIES <center>
+---
+<center><h3> Top Trending Topics -  San Francisco </h3><center>
+<center><img src="./Images/poptrendsf1.png" height="200"/></center>
+<center><img src="./Images/poptrendsf2.png" height="200"/></center>
+<center><h3> DataScience Topics - San Francisco </h3><center>
+<center><img src="./Images/dstopic1.png" height="200"/></center>
+<center><img src="./Images/dstopic2.png" height="200"/></center>
+<center><h3> Labled-Category Groups </h3><center>
+<center><img src="./Images/labledts.png" height="200"/></center>
+
