@@ -11,4 +11,4 @@
 #Example of raw rsvp streaming file
 ![logo](./Images/jsonfile.png)
 
-#Please view Ipythonfile for more information
+#Please view [ipython] for more information(#https://github.com/Charlotte1904/MeetupAPI/blob/master/README.ipynb)
