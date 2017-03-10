@@ -41,7 +41,6 @@ http://meetupfinalgraphs.s3-website-us-west-1.amazonaws.com/
 ---
 <center><h3> Topic Network - San Francisco </h3><center>
 
-<center><img src="./Images/sftopicsnetwork.png
-" height="200"/></center>
+<center><img src="./Images/sftopicsnetwork.png"height="200"/></center>
 
 <center><img src="./Images/question.png" height="200"/></center>
