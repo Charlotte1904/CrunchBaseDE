@@ -1,12 +1,16 @@
+# <center> PROJECT  OBJECTIVES <center>
+
+- Built a production-ready streaming and predicting pipeline using MeetupAPI and AWS
+- Predicted in real-time the next industry-specific trend and tracked its popularity over time through
+interactive time-series graphs 
+- Discovered the emergence of a new community (category) in a city using Network Graphs
+- Implementing Time Series to see the rise of a topic and how different topics evolve over time
+
+
+
 # <center> MEETUP PLATFORM <center>
 ![logo](./Images/Diagram.png)
 
-<hr>
--**Using MeetupAPI to explore the relationships among topics to discern different sub-category within a category** 
-<br>
--**Implementing Network Graph to discover the new emergence tech community and/or new tool within a category**
-<br>
--**Implementing Time Series to see the rise of a topic and how different topics evolve over time**
 
 #Example of raw rsvp streaming file
 ![logo](./Images/jsonfile.png)
