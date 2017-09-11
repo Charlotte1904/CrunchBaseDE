@@ -7,6 +7,7 @@ interactive time-series graphs
 - Implementing Time Series to see the rise of a topic and how different topics evolve over time
 
 
+# <center> PROCEDURES <center>
 
 # <center> MEETUP PLATFORM <center>
 ![logo](./Images/Diagram.png)
