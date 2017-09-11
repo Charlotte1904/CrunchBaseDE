@@ -9,7 +9,7 @@ interactive time-series graphs
 
 # <center> PROCEDURES <center>
 
-# <center> MEETUP PLATFORM <center>
+# <center> ETL <center>
 ![logo](./Images/Diagram.png)
 
 
