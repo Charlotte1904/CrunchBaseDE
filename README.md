@@ -44,6 +44,10 @@ As a consequence, we would expect to find them mentioned by the same groups, in 
 
 Topic Network where topics that are often mentioned together are linked and “pulled together” (see graph below). 
 
+- The color of nodes identify how important nodes are within a graph. Darker-color nodes at the center are general topics (technology, tech, software, . . ) that can be used to describe any tech event. 
+
+- Slightly-darker nodes on the outside is the central node for subgraphs. They indicate natural groupings within the data. This supports community detection - detection of subgraphs where a set of nodes is densely connected internally and sparsely connected externally.
+
 
 <center><img src="./Images/techtopicnetwork.png" ></center>
 
